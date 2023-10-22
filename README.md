@@ -1,4 +1,5 @@
-<h2 align="center"><strong>It´s a me, Luige 🍄</strong></h2> 
+<h2 align="center"><strong>It´s a me, Luige 🍄</strong></h2>
+<t></t>
 
 - 🌱 Atualmente estudando Python, C++ e Java
 - 🎓 Cursando Ciência da Computação na Uesc
