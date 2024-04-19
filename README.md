@@ -1,9 +1,8 @@
 <h2 align="center"><strong>It´s a me, Luige 🍄</strong></h2>
 <t></t>
 
-- 🌱 Atualmente estudando Python, C++ e Java
+- 🌱 Atualmente estudando Python e Java
 - 🎓 Cursando Ciência da Computação na Uesc
-- 🏋️‍♂️ Fun fact: Eu amo treinar
 - 🏢 Aberto à oportunidades 
 
 <p align="center">
