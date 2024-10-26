@@ -3,7 +3,7 @@
 
 ##  ✏️**About me**
   - 🎓 Studying Computer Science at [UESC](http://uesc.br/).
-  - 👩‍💻 Currently learning: **SQL**, **RPA** and **Python**.
+  - 👩‍💻 Currently learning: **SQL**, **RPA** and **Mobile Automation**.
   - 🔎 I´m curious about how everything works
   - ⚡ Fun fact: I love to work out and play games 
 
