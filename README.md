@@ -5,7 +5,7 @@
   - 🎓 Studying Computer Science at [UESC](http://uesc.br/).
   - 👩‍💻 Currently learning: **SQL**, **RPA** and **Mobile Automation**.
   - 🔎 I´m curious about how everything works
-  - ⚡ Fun fact: I love to work out and play games 
+  - ⚡ I love to work out and play games 
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lluigecm&private=true&show_icons=true&theme=radical&include_all_commits=true" align = "center"/>
