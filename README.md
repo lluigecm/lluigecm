@@ -8,8 +8,8 @@
   - ⚡ I love to work out and play games 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lluigecm&private=true&show_icons=true&theme=radical&include_all_commits=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluigecm&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
+<img height="180em" src="https://github-readme-stats-lluigecms-projects.vercel.app//api?username=lluigecm&private=true&show_icons=true&theme=radical&include_all_commits=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats-lluigecms-projects.vercel.app//api/top-langs?username=lluigecm&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
 </p>
 
 ##  🛠️ **Skills**
