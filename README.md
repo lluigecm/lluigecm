@@ -17,17 +17,33 @@ I build automation that keeps working when the system underneath it changes: E2E
 
 ---
 
+```diff
+$ npx playwright test luige.spec.ts
+
+@@ Running 6 tests using 1 worker @@
+
++ ✓ studies Computer Science @ UESC
++ ✓ automates tests and business processes (RPA)
++ ✓ heals broken selectors before they fail      (thesis in progress)
++ ✓ works out regularly
++ ✓ plays games
+! ⚠ still curious about how everything works
+
+  5 passed, 1 flaky
+```
+
+---
+
 ## What I'm focused on
 
 - 🧪 **Test automation**: Playwright + TypeScript and Robot Framework, with the Page Object Model
 - 🤖 **RPA**: automating business processes end to end
 - 🌐 **Real-time web**: Node.js, Socket.io and WebRTC
 - ⚙️ **Low level**: C and C++
-- 🔎 Curious about how everything works, and when I'm not coding I'm working out or playing games
 
 ---
 
-## Stack
+## 🍄 Power-ups
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-2370ED?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
