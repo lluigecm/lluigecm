@@ -1,61 +1,64 @@
-<h1 align="center"><strong>It´s a me, Luige 🍄</strong></h1>
-<t></t>
+<div align="center">
+  <h1>It´s a me, Luige 🍄</h1>
+  <h4>Test Automation & RPA developer from Brazil</h4>
+</div>
 
-##  ✏️**About me**
-  - 🎓 Studying Computer Science at [UESC](http://uesc.br/).
-  - 👩‍💻 Currently working on RPA and Test Automation.
-  - 🔎 I´m curious about how everything works
-  - ⚡ I love to work out and play games 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lluigecm/lluigecm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lluigecm/lluigecm/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/lluigecm/lluigecm/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats-teal-gamma-99.vercel.app//api?username=lluigecm&private=true&show_icons=true&theme=radical&include_all_commits=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats-teal-gamma-99.vercel.app//api/top-langs?username=lluigecm&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
-</p>
+---
 
-##  🛠️ **Skills**
+**Test Automation & RPA developer** · Computer Science student @ [UESC](http://uesc.br/)
 
-- **Languages**
+I build automation that keeps working when the system underneath it changes: E2E suites, RPA bots and the tooling around them. My undergraduate thesis is about exactly that: tests that heal their own broken selectors instead of failing on every UI change.
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007396.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    
+---
 
-- **Frameworks**
+```diff
+$ npx playwright test luige.spec.ts
 
-    ![Pygame](https://img.shields.io/badge/Pygame%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![RobotFramework](https://img.shields.io/badge/Robot_Framework%20-%233776AB.svg?style=for-the-badge&logo=robotframework&logoColor=white)
-    ![Playwright](https://img.shields.io/badge/Playwright%20-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
-  
+@@ Running 6 tests using 1 worker @@
 
-- **Softwares and Tools**
++ ✓ studies Computer Science @ UESC
++ ✓ automates tests and business processes (RPA)
++ ✓ heals broken selectors before they fail      (thesis in progress)
++ ✓ works out regularly
++ ✓ plays games
+! ⚠ still curious about how everything works
 
-    ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA%20-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    ![Pycharm](https://img.shields.io/badge/pycharm%20%20-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+  5 passed, 1 flaky
+```
 
-##  📫 **How to reach me**
+---
 
-<p align="center">
-<br/>
-<a href=https://www.linkedin.com/in/lucas-luige-3a0b52216/" target="blank">
-  <img align="center"
-    src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="azzar" height="30"/>
-</a>
-<a href="mailto:luige030301@gmail.com" target="blank">
-  <img align="center"
-    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="azzar" height="30"/>
-</a>
-<a href="https://www.instagram.com/lluige_cm/" target="blank">
-  <img align="center"
-    src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-    alt="azzar" height="30"/>
-</a>
-</p>
+## What I'm focused on
 
+- 🧪 **Test automation**: Playwright + TypeScript and Robot Framework, with the Page Object Model
+- 🤖 **RPA**: automating business processes end to end
+- 🌐 **Real-time web**: Node.js, Socket.io and WebRTC
+- ⚙️ **Low level**: C and C++
+
+---
+
+## 🍄 Power-ups
+
+### Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-2370ED?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Testing & automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+
+### Web & real-time
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+---
+
+## 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-luige-3a0b52216/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luige030301@gmail.com)
